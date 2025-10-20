@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Oliver Jones. I'm the CTO at [Itty Bitty Apps](https://ittybittyapps.com).
+My name is Oliver Jones. I'm a Principle Apple Platforms Engineer (I build apps for Apple platforms).
 
 <!--
 Here are some ideas to get you started:
